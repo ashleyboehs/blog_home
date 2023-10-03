@@ -107,7 +107,7 @@ To run the project, execute the following command:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/ashleyboehs/Scheduled-tweets/issues).
+Feel free to check the [issues page](https://github.com/ashleyboehs/home_blog/issues).
 
 
 <!-- SUPPORT -->
